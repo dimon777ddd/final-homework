@@ -1,0 +1,15 @@
+E:\programming\final homewok\bin\Debug\net7.0\final homewok.exe
+E:\programming\final homewok\bin\Debug\net7.0\final homewok.deps.json
+E:\programming\final homewok\bin\Debug\net7.0\final homewok.runtimeconfig.json
+E:\programming\final homewok\bin\Debug\net7.0\final homewok.dll
+E:\programming\final homewok\bin\Debug\net7.0\final homewok.pdb
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.csproj.AssemblyReference.cache
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.AssemblyInfoInputs.cache
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.AssemblyInfo.cs
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.csproj.CoreCompileInputs.cache
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.dll
+E:\programming\final homewok\obj\Debug\net7.0\refint\final homewok.dll
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.pdb
+E:\programming\final homewok\obj\Debug\net7.0\final homewok.genruntimeconfig.cache
+E:\programming\final homewok\obj\Debug\net7.0\ref\final homewok.dll
